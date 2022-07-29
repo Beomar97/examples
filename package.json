@@ -4,6 +4,7 @@
   "private": true,
   "workspaces": [
     "apps/*",
+    "apps/_turborepo-examples/*",
     "packages/*"
   ],
   "scripts": {
